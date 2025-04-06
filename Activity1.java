@@ -5,4 +5,3 @@ public class Activity1 {
         System.out.println("Kristian Dellomas - BSIT 2I");
         }
     }  
-}
